@@ -1,6 +1,6 @@
 # viv3r
 <br>
-FP Administració de sistemes informàtics en xarxa
+FP Administració de Sistemes Informàtics en Xarxa
 <br>
 Pràctica 2 Git Rúbrica
 <br>
